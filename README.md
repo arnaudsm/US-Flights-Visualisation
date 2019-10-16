@@ -1,6 +1,7 @@
-# Data visualisation of US Domestic Flights between 1990-2008 [Jupyter Notebook]
-- Roughly 3 **MILLION** lines. That's a lot !
-- [Public Dataset](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a) published by the US Census Bureau  
+# Data visualisation of US Domestic Flights (1990-2008)
+![Preview Picture](images/preview.png)
+- Roughly 3 **MILLION** lines !
+- Based on this [Public Dataset](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a) published by the US Census Bureau  
 
 # Run
 This is a Jupyter Notebook.
