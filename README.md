@@ -1,7 +1,13 @@
-# Data visualisation of US Domestic Flights (1990-2008)
+# Analysing and Preciting US Domestic Flights (1990-2008)
 ![Preview Picture](images/preview.png)
 - Roughly 3 **MILLION** lines !
 - Based on this [Public Dataset](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a) published by the US Census Bureau  
+
+# Predicting future traffic
+![Predictions for SFO](images/prediction.png)
+Using Fast-Fourier-Transform, we can forecast passenger traffic based on cyclic tendancies.
+
+If you want to improve prediction with differents time series forecasting algorithms, pull-requests are welcome !
 
 # Run
 This is a Jupyter Notebook.
